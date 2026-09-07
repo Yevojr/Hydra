@@ -1,0 +1,12 @@
+{
+  "name": "@hydra/svelte",
+  "version": "0.0.1",
+  "type": "module",
+  "main": "src/index.ts",
+  "dependencies": {
+    "@hydra/tokens": "*"
+  },
+  "peerDependencies": {
+    "svelte": "^5.0.0"
+  }
+}

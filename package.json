@@ -1,0 +1,12 @@
+{
+  "name": "team-hydra",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
+  "scripts": {
+    "build:tokens": "npm run build -w packages/tokens",
+    "dev": "npm run dev -w apps/site"
+  }
+}

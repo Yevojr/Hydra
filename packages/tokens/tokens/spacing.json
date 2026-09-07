@@ -1,0 +1,7 @@
+{
+  "spacing": {
+    "sm": { "value": "0.5rem" },
+    "md": { "value": "1rem" },
+    "lg": { "value": "1.5rem" }
+  }
+}

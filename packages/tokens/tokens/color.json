@@ -1,0 +1,9 @@
+{
+  "color": {
+    "indigo": { "value": "#0F158C" },
+    "teal": { "value": "#2EC4B6" },
+    "venom": { "value": "#9EF01A" },
+    "gold": { "value": "#C9A227" },
+    "text": { "value": "#F2F0E9" }
+  }
+}
